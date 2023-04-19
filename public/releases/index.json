@@ -4,12 +4,12 @@
             {
                 "version": "v2023.04.19",
                 "variant": "minimal",
-                "url": "https://github.com/ponces/treble_build_aosp/releases/download/v2023.04.19/aosp-arm64-ab-vanilla-13.0-20230419.img.xz"
+                "url": "https://cors-anywhere.azm.workers.dev/github.com/ponces/treble_build_aosp/releases/download/v2023.04.19/aosp-arm64-ab-vanilla-13.0-20230419.img.xz"
             },
             {
                 "version": "v2023.04.19",
                 "variant": "gapps",
-                "url": "https://github.com/ponces/treble_build_aosp/releases/download/v2023.04.19/aosp-arm64-ab-gapps-13.0-20230419.img.xz"
+                "url": "https://cors-anywhere.azm.workers.dev/github.com/ponces/treble_build_aosp/releases/download/v2023.04.19/aosp-arm64-ab-gapps-13.0-20230419.img.xz"
             }
         ]
     }
